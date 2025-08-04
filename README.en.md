@@ -1,3 +1,4 @@
+[中文](README.md) | [English](README.en.md)
 # License Manager
 
 A C++-based license management system that provides functions for license generation, validation, and device fingerprint identification.
