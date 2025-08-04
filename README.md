@@ -1,4 +1,4 @@
-中文(#README.md)|English(#README.en.md)
+[中文](#README.md) | [English](#README.en.md)
 # License Manager
 
 一个基于C++的许可证管理系统，提供许可证生成、验证和设备指纹识别功能。
